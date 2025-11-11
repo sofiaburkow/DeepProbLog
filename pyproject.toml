@@ -1,0 +1,9 @@
+[project]
+name = "deepproblog_for_nids"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deepproblog>=2.0.6",
+]
