@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Logs and snapshots generated when running the examples
+examples/MNIST/log/
+examples/MNIST/snapshot
