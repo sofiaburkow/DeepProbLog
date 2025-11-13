@@ -1,0 +1,3 @@
+[submodule "external/deepproblog_orig"]
+	path = external/deepproblog_orig
+	url = https://github.com/ML-KULeuven/deepproblog.git
